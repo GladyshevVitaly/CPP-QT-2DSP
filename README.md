@@ -3,8 +3,8 @@
 ## Базовый вариант (группа алгоритмов FFDH)
 
 Возможно расширение с применением алгоритмов:
--FCNR (Floor Ceiling No Rotation)
--FCV (Floor Ceiling Vert)
+- FCNR (Floor Ceiling No Rotation)
+- FCV (Floor Ceiling Vert)
 
 Приложение кросплатформенное можно скомпилировать модуль для ОС Linux и Windows
 
